@@ -15,7 +15,7 @@ public class TestAdd {
 	@Test
 	public void testok()
 	{
-		assertEquals(6, adder.add(3, 3));
+		assertEquals(7, adder.add(3, 3));
 	}
 	@Test
 	public void testFailed()
